@@ -1,0 +1,11 @@
+{
+  "name": "nodeprojaug",
+  "version": "1.0.0",
+  "description": "sampletestprog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prafull tupe",
+  "license": "ISC"
+}
